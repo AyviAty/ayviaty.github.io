@@ -7,3 +7,5 @@ fields:
   default: a
   label: a
   name: aa
+pages:
+- a.md
